@@ -12,11 +12,14 @@
 
 void PrintArray(int[] a)
 {
-    for(int i=0;i<a.Length;i++)
+    Console.Write("[");
+    Console.Write(a[0]);
+    for(int i=1;i<a.Length;i++)
     {
-        Console.Write(a[i]);
         Console.Write(", ");
+        Console.Write(a[i]);
     }
+    Console.Write("]");
 }
 
 Console.WriteLine("Введите 8 чисел, разделенных запятыми");
