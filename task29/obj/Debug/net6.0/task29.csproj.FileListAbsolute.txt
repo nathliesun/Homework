@@ -1,0 +1,15 @@
+G:\Desktop\homework\task29\obj\Debug\net6.0\task29.csproj.AssemblyReference.cache
+G:\Desktop\homework\task29\obj\Debug\net6.0\task29.GeneratedMSBuildEditorConfig.editorconfig
+G:\Desktop\homework\task29\obj\Debug\net6.0\task29.AssemblyInfoInputs.cache
+G:\Desktop\homework\task29\obj\Debug\net6.0\task29.AssemblyInfo.cs
+G:\Desktop\homework\task29\obj\Debug\net6.0\task29.csproj.CoreCompileInputs.cache
+G:\Desktop\homework\task29\bin\Debug\net6.0\task29.exe
+G:\Desktop\homework\task29\bin\Debug\net6.0\task29.deps.json
+G:\Desktop\homework\task29\bin\Debug\net6.0\task29.runtimeconfig.json
+G:\Desktop\homework\task29\bin\Debug\net6.0\task29.dll
+G:\Desktop\homework\task29\bin\Debug\net6.0\task29.pdb
+G:\Desktop\homework\task29\obj\Debug\net6.0\task29.dll
+G:\Desktop\homework\task29\obj\Debug\net6.0\refint\task29.dll
+G:\Desktop\homework\task29\obj\Debug\net6.0\task29.pdb
+G:\Desktop\homework\task29\obj\Debug\net6.0\task29.genruntimeconfig.cache
+G:\Desktop\homework\task29\obj\Debug\net6.0\ref\task29.dll
