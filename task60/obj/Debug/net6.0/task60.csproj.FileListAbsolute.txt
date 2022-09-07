@@ -1,0 +1,15 @@
+G:\Desktop\homework\task60\obj\Debug\net6.0\task60.csproj.AssemblyReference.cache
+G:\Desktop\homework\task60\obj\Debug\net6.0\task60.GeneratedMSBuildEditorConfig.editorconfig
+G:\Desktop\homework\task60\obj\Debug\net6.0\task60.AssemblyInfoInputs.cache
+G:\Desktop\homework\task60\obj\Debug\net6.0\task60.AssemblyInfo.cs
+G:\Desktop\homework\task60\obj\Debug\net6.0\task60.csproj.CoreCompileInputs.cache
+G:\Desktop\homework\task60\bin\Debug\net6.0\task60.exe
+G:\Desktop\homework\task60\bin\Debug\net6.0\task60.deps.json
+G:\Desktop\homework\task60\bin\Debug\net6.0\task60.runtimeconfig.json
+G:\Desktop\homework\task60\bin\Debug\net6.0\task60.dll
+G:\Desktop\homework\task60\bin\Debug\net6.0\task60.pdb
+G:\Desktop\homework\task60\obj\Debug\net6.0\task60.dll
+G:\Desktop\homework\task60\obj\Debug\net6.0\refint\task60.dll
+G:\Desktop\homework\task60\obj\Debug\net6.0\task60.pdb
+G:\Desktop\homework\task60\obj\Debug\net6.0\task60.genruntimeconfig.cache
+G:\Desktop\homework\task60\obj\Debug\net6.0\ref\task60.dll
